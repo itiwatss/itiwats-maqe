@@ -1,6 +1,6 @@
 # ITIWAT MAQE INTERVIEW TEST
 
-## Installment
+## Installation
 
 - npm i
 - npm start
